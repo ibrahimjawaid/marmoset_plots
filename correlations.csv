@@ -1,7 +1,9 @@
-&Total submissions&% no submission&Avg subs per hour&Avg hours to complete&Avg subs to complete&% subbed after complete
-Total submissions&1.0&0.19&0.97&0.79&0.86&0.32
-% no submission&0.19&1.0&0.28&0.06&0.23&-0.14
-Avg subs per hour&0.97&0.28&1.0&0.73&0.87&0.28
-Avg hours to complete&0.79&0.06&0.73&1.0&0.89&-0.11
-Avg subs to complete&0.86&0.23&0.87&0.89&1.0&-0.11
-% subbed after complete&0.32&-0.14&0.28&-0.11&-0.11&1.0
+&Total submissions&% no submission&Avg subs per hour&Avg hours to complete&Avg subs to complete&% subbed after complete&Extra points&Keenness
+Total submissions&1.0&0.19&0.97&0.79&0.86&0.32&0.48&-0.39
+% no submission&0.19&1.0&0.28&0.06&0.23&-0.14&0.03&-0.08
+Avg subs per hour&0.97&0.28&1.0&0.73&0.87&0.28&0.43&-0.36
+Avg hours to complete&0.79&0.06&0.73&1.0&0.89&-0.11&0.25&-0.34
+Avg subs to complete&0.86&0.23&0.87&0.89&1.0&-0.11&0.28&-0.46
+% subbed after complete&0.32&-0.14&0.28&-0.11&-0.11&1.0&0.6&0.2
+Extra points&0.48&0.03&0.43&0.25&0.28&0.6&1.0&-0.09
+Keenness&-0.39&-0.08&-0.36&-0.34&-0.46&0.2&-0.09&1.0
